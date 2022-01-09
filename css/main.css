@@ -62,19 +62,19 @@ th, td {
 }
 
 .a {
-	 background-color: #EDF4AC;
+	 background-color: #99EBA2;
 }
 
 .b {
-	background-color: #ADF39F;
+	background-color: #94D89B;
 }
 
 .c {
-	background-color: #B3F4DE;
+	background-color: #90CA95;
 } 
 
 .d {
-	background-color: #B0B9EB;
+	background-color: #8BB68D;
 }
 
 .yellow, .green, .blue, .white {
@@ -134,25 +134,25 @@ th, td {
 }
 
 .colored {
-	background: #F6F880;
+	background: #6EEB7C;
 	transform: scaleX(1.1);
 	transform: scaleY(1.1);
 }
 
 .colored_one {
-	background-color: #6EF65C;
+	background-color: #71D87B;
 	transform: scaleX(1.1);
 	transform: scaleY(1.1);
 }
 
 .colored_two {
-	background-color: #83F8D7;
+	background-color: #67CA6F;
 	transform: scaleX(1.1);
 	transform: scaleY(1.1);
 }
 
 .colored_three {
-	background-color: #6B72DA;
+	background-color: #6CB66F;
 	transform: scaleX(1.1);
 	transform: scaleY(1.1);
 }
